@@ -1,0 +1,30 @@
+#home {
+	background: #d9534f;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+header #nav-principal a:hover {
+	background: #FFF;
+	border-radius: 15px;
+}
+
+footer li a {
+	color: #CD3333;
+}
+
+footer li a:hover {
+	color: #111;
+}
+
+
+.menu-redes-sociais a {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 5px;
+   border-style: none;
+}
